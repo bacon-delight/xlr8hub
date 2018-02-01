@@ -1,7 +1,7 @@
 # xlr8hub
 File Storage and Sharing Website
 
-**Features of this website:**
+## Features of this website:
 - Account Creation and Management
 - Signup and Login
 - File Uploads and Downloads
@@ -9,7 +9,7 @@ File Storage and Sharing Website
 
 ## MySQL Queries
 To use this website, you'll need to create two tables in MySQL\
-**users** Table\
+
 CREATE TABLE users\
 (\
     user_id int(5) AUTO_INCREMENT PRIMARY KEY,\
@@ -23,5 +23,5 @@ CREATE TABLE users\
     user_bio varchar(1024)\
 );
 
-**Important**\
+## Important
 This project is still under development and can be unstable. You are free to use any and all component(s) for personal and/or commercial purposes.
