@@ -20,8 +20,9 @@
 	<style type="text/css">
 		body
 		{
-			background: url('assets/img/bg3.jpg');
+			background: url('assets/img/bg3.jpeg');
 			background-repeat: no-repeat;
+			background-size: cover;
 			background-attachment: fixed;
 		}
 	</style>
@@ -62,9 +63,9 @@
 			</p>
 			<br><br>
 		</div>
-		<div class="five wide column ui segment" style="max-width: 450px; min-width: 350px; background: url(assets/img/logo.gif); background-position: center; background-repeat: no-repeat; color: #ffffff;">
+		<div class="five wide column ui segment" style="max-width: 450px; min-width: 350px; background: rgba(0,0,0,0.8); ">
 			<div class="ui">
-				<h2>Sign In</h2>
+				<h2 style="color: #ffffff;">Sign In</h2>
 			</div>
 			<div class="ui divider"></div>
 			<br>

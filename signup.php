@@ -20,7 +20,8 @@
 	<style type="text/css">
 		body
 		{
-			background: url('assets/img/bg3.jpg');
+			background: url('assets/img/bg3.jpeg');
+			background-size: cover;
 			background-repeat: no-repeat;
 			background-attachment: fixed;
 		}
