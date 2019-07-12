@@ -1,5 +1,11 @@
-# xlr8hub
+# XLR8 Hub
 File Storage and Sharing Website
+
+## Technologies Used"
+- Semantic UI
+- jQuery
+- PHP Core
+- MySQL
 
 ## Features of this website:
 - Account Creation and Management
@@ -24,4 +30,4 @@ CREATE TABLE users\
 );
 
 ## Important
-This project is still under development and can be unstable. You are free to use any and all component(s) for personal and/or commercial purposes.
+This project was developed when I was learning how to develop full-stack applications. I no longer upgrade it and this can be unstable. You are free to use any and all component(s) of this project for personal and/or commercial purposes.
